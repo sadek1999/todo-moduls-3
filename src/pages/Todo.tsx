@@ -1,3 +1,4 @@
+
 import TodoContainer from "../components/TodoContainer";
 
 
@@ -6,7 +7,10 @@ import TodoContainer from "../components/TodoContainer";
 const todo = () => {
     return (
         <div>
-        <TodoContainer></TodoContainer>
+        <TodoContainer>
+
+            
+        </TodoContainer>
         </div>
     );
 };
